@@ -88,7 +88,7 @@ int main() {
         }
         double mean = calculate_mean(timings);
         double std_deviation = calculate_standard_deviation(timings, mean);
-        double margin_of_error = 1.96 * (std_deviation / sqrt(timings.size())); // 95% confidence interval
+        double margin_of_error = 1.96 * (std_deviation / sqrt(timings.size())); 
         file << size << " - Mean: " << mean << " ms, Std Deviation: " << std_deviation << " ms, 95% Confidence Interval: (" << (mean - margin_of_error) << ", " << (mean + margin_of_error) << ") ms" << std::endl;
     }
     file.close();
