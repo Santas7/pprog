@@ -1,0 +1,7 @@
+50 - Mean: 14.4286 ms, Std Deviation: 11.7699 ms, 95% Confidence Interval: (5.70931, 23.1478) ms
+100 - Mean: 177.143 ms, Std Deviation: 112.928 ms, 95% Confidence Interval: (93.4848, 260.801) ms
+200 - Mean: 517.571 ms, Std Deviation: 166.218 ms, 95% Confidence Interval: (394.435, 640.708) ms
+250 - Mean: 873.429 ms, Std Deviation: 36.5156 ms, 95% Confidence Interval: (846.377, 900.48) ms
+500 - Mean: 6917.57 ms, Std Deviation: 112.553 ms, 95% Confidence Interval: (6834.19, 7000.95) ms
+750 - Mean: 23390.7 ms, Std Deviation: 143.012 ms, 95% Confidence Interval: (23284.8, 23496.7) ms
+1000 - Mean: 59697.1 ms, Std Deviation: 598.345 ms, 95% Confidence Interval: (59253.9, 60140.4) ms
